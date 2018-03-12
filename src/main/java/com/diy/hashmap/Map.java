@@ -1,4 +1,4 @@
-package com.diy.HashMap;
+package com.diy.hashmap;
 
 /**
  * Created by JAVA on 2018/3/11.
