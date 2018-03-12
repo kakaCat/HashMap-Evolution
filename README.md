@@ -68,7 +68,8 @@
     }
 >>
 >>
->
+
+
 >DiyMap<String,Object> map1 =new DIYHashMap<>(); 自己写的hashmap
 >>
 	
